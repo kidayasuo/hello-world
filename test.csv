@@ -22,12 +22,3 @@ DSIG,共通,,A,M-exceptional for compatibility with some fonts
 meta,TT?,,,M-exceptional for compatibility with some fonts
 kern,TT,,,"D, M-exceptional for compatibility with old apps"
 mort,Apple,,,"F, M-exceptional for compatibility with old apps"
-
-
-## Legend 
-- The checkmark indicates that the table is used by all developers.
-- Capital letters indicate that the table is used by the designated developers, followed by optional comment after a hyphen.
-A: Adobe
-D: Dynacomware
-F: Fonrworks
-M: Morisawa
